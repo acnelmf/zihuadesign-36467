@@ -23,7 +23,7 @@ header:
     - label: Resdiseño web
       url: /style-guide
       style: link
-    - label: Sign Up
+    - label: Contáctenos
       url: /signup
       style: primary
 footer:
