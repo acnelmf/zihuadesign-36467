@@ -24,7 +24,7 @@ header:
       url: /style-guide
       style: link
     - label: Contáctenos
-      url: /signup
+      url: /contact
       style: primary
 footer:
   sections:
