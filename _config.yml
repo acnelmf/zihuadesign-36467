@@ -32,7 +32,8 @@ footer:
       image: images/logo-alt.svg
       image_url: /
       image_alt: Footer logo
-      content: Stackbit theme demo
+      content: |
+        Diseño de paginas web en Zihuatanejo  Ixtapa
     - type: footer_nav
       title: Company
       nav_links:
