@@ -6,9 +6,11 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: Diseño y hospedaje de paginas Web en Ixtapa Zihuatanejo
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: >+
+      Somos una empresa en Ixtapa Zihuatanejo de diseño y hospedaje web con más
+      de 10 años de experiencia en el desarrollo de sitios web.
+
+
     actions:
       - label: Learn More
         url: /features
