@@ -12,7 +12,7 @@ sections:
 
 
     actions:
-      - label: Learn More
+      - label: Leer más..
         url: /features
         style: primary
   - section_id: features
