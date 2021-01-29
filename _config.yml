@@ -11,7 +11,7 @@ header:
   logo_img_alt: Zihuadesign
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Inicio
       url: /
       style: link
     - label: Features
