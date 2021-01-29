@@ -11,21 +11,37 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: Diseño de páginas web
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Somos una empresa mexicana en Ixtapa Zihuatanejo  apasionada por el diseño
+      web.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      Si esta pensando en crear una página web para su negocio permítanos poner
+      nuestro servicio a su disposición.  Nuestro servicio es completamente
+      profesional y está garantizado.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+
+      El diseño de una página web es una parte fundamental para el buen éxito de
+      su negoción. Será la imagen que ustéd mostrará en Internet de su negocio
+      al mundo.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      La forma en que usted presenta a su negocio en Internet es la forma en la
+      que sus clientes verán a su empresa. Por eso le recomendamos poner en
+      manos de profesionales el desarrollo de su página web, para así mostrar
+      una cara profesional a sus clientes, quienes se verán motivados a hacer
+      negocios con usted; o de lo contrario, una mala imagen podría alejarlos de
+      usted.
+
+
+      Lo invitamos a ponerse en contacto con nosotros para platicar más de cerca
+      sobre sus necesidades y las soluciones que le ofrecemos.
+
+
+      zihuadesign.com
+
+      Ixtapa-Zihuatanejo, Gro.
     actions:
       - label: Free Trial
         url: /signup
